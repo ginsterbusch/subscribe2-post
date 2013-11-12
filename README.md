@@ -12,6 +12,7 @@ New features (v9.1)
 - Custom keywords, eg. {MY_KEYWORD} (simple version; just string search and replace)
 - Semi-dynamic replacement of most of the used text strings using a drop-in replacment file called strings.php (also see below)
 - Theme-based customization using a seperate directory named "subscribe2-post" placed in the directory of the current theme
+- Extended subscribe2 shortcode: Set custom button texts and classes, plus e-mail label, for better integration into your current theme (eg. the (former Twitter) Bootstrap responsive framework uses seperate button classes, which are now easy to add)
 - Backward compatiblity to Subscribe2 v9.0
 
 Bugfixes (v9.1)
