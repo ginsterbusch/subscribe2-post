@@ -1,7 +1,6 @@
 subscribe2-post
 ===============
 
-<<<<<<< HEAD
 Subscribe2 Post plugin for WordPress. An ongoing effort to combine the easy of use of [Subscribe2](http://wordpress.org/plugins/subscribe2/) with the flexibility of [Post Notification](http://wordpress.org/plugins/post-notification/).
 Based on Subscribe2 v9.0, thus this initial release will be called v9.1.
 
@@ -36,6 +35,4 @@ Planned features (v10.0)
 - Default settings to avoid having to reset the plugin every time a new option gets introduced
 - Settings backup and restore function (to avoid above scenario and also to be able to reuse mail template customizations)
 - Proper AJAX / Javascript output and integration
-=======
-Subscrib2 Post plugin for WordPress. An ongoing effort to combine the easy of use of Subscribe2 with the flexibility of Post Notification.
->>>>>>> 419a6267df59bf696bdbe7acb8ac234a0d58c55b
+
